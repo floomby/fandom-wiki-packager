@@ -1,0 +1,21 @@
+# temporary files
+downloaded_data
+extracted_data
+deduped_data
+cleaned_data
+chunked_data
+logs
+named_entities.txt
+
+# output package directory
+packages
+
+# javasrcipt stuff
+node_modules
+*.js
+
+# url input file
+urls.txt
+
+# environment variables (api key)
+.env
